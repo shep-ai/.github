@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>
-      <img width="194" height="200" alt="image" src="https://github.com/user-attachments/assets/239b94a0-9229-413b-bd45-b49fa1afcf13" width="28" valign="middle" />
+      <img width="263" height="268" alt="{C9DA3659-0C85-42BC-8A85-19C127AB76A7}" src="https://github.com/user-attachments/assets/ad97f900-0f2d-4e14-8f02-0f58711d4b9c" />
+
   <br />
   <br />
   Shep
