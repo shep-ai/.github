@@ -17,7 +17,7 @@ _Manage 10 features at once — isolated branches, automatic commits, CI watchin
 [![npm version](https://img.shields.io/npm/v/@shepai/cli.svg?color=cb3837&logo=npm)](https://www.npmjs.com/package/@shepai/cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Quick Start](#quick-start) · [How It Works](#how-it-works) · [Features](#features) · [Trust & Safety](#trust--safety) · [FAQ](#faq)
+[Quick Start](https://github.com/shep-ai/shep#quick-start) · [How It Works](https://github.com/shep-ai/shep#how-it-works) · [Features](https://github.com/shep-ai/shep#features) · [Trust & Safety](https://github.com/shep-ai/shep#trust--safety) · [FAQ](https://github.com/shep-ai/shep#faq)
 
 <br />
 
