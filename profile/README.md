@@ -1,15 +1,5 @@
 <div align="center">
 
-<h1>
-     <img height="200" alt="image" src="https://github.com/user-attachments/assets/5f8a7f01-7f83-4af1-8911-cadf07f31754" />
-
-  <br />
-  <br />
-  Shep
-    <br />
-
-</h1>
-
 ### Run multiple AI agents in parallel. Each in its own worktree.
 
 _Manage 10 features at once — isolated branches, automatic commits, CI watching, and PRs — from a dashboard or the terminal._
